@@ -1,4 +1,4 @@
-TinDog: Tinder for Dogs
+# TinDog: Tinder for Dogs
 
 A responsive webpage project using bootstrap and jquery!
 
